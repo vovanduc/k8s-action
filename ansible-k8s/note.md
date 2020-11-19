@@ -1,0 +1,1 @@
+https://medium.com/@adilsonbna/ansible-k8s-for-the-laziest-person-part-1-cce795214edd
